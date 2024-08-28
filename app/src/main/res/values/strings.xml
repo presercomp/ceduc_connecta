@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Connecta CEDUC UCN</string>
+    <string name="rut">R.U.T.</string>
+    <string name="password">Clave</string>
+    <string name="button_access">Acceder</string>
+    <string name="button_recovery">Recuperar Acceso</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
